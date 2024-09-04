@@ -1,0 +1,51 @@
+/* Main */
+.main_subtitle img {
+    width: 2.3rem;
+    height: 2.3rem;
+}
+
+.main_content h1 {
+    font-size: 3.2rem;
+    font-weight: 600;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    color: var(--heading-color);
+}
+
+.main_content h1 .highlight {
+    color: var(--secondary-color);
+}
+
+.main_content p {
+    font-size: 1.1rem;
+    color: var(--text-color);
+    line-height: 2rem;
+}
+.main_img-box img {
+    width: 100%;
+    height: 350px;
+    border-radius: 20px;
+    border: 1px solid var(--secondary-color);
+    object-fit: cover;
+}
+
+.main_content {
+    padding-top: 1rem; /*2rem*/
+}
+.main_img-box {
+    padding-top: 1rem; /*2rem*/
+}
+
+
+/* Services */
+.services_subtitle {
+    font-size: 2.2rem;
+    font-weight: 600;
+    color: #40916c;
+    font-family: var(--subtitle-font-name);
+}
+
+.services_title {
+    font-size: 2.5rem;
+    font-weight: 500;
+}
