@@ -1,11 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Island+Moments&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
 
+/* color pallet url */
+/* https://coolors.co/palette/463f3a-8a817c-bcb8b1-f4f3ee-e0afa0 */
+
 :root {
+  /* ylw */
   /* --primary-color: #ff7e01; */
-  --primary-color: #40916c;
+  /* green */
+  --primary-color: #40916c;    
+  /* brw */
+  /* --primary-color: #8a817c;  */
+  /* ylw */
   /* --secondary-color: #faa935; */
+  /* grn */
   --secondary-color: #74c69d;
+  /* brw */
+  /* --secondary-color: #463f3a; */
   --heading-color: #0b2727;
   --text-color: #6e7074;
   --font-name: "Montserrat", sans-serif;
