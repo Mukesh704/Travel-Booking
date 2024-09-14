@@ -1,10 +1,11 @@
-import mongoose from "moongose";
+// import Tour from './Tour.js'
+import mongoose from "mongoose";
 
 const reviewSchema = new mongoose.Schema(
     {
         productId: {
             type: mongoose.Types.ObjectId,
-            ref: Tour
+            ref: "Tour"
         },
         username: {
             type: String,
