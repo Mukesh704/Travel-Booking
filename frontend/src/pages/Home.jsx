@@ -36,7 +36,7 @@ const Home = () => {
           </Col>
   
           <Col lg='2'>
-          <div className="main_img-box">
+          <div className="main_img-box main_img1-box">
             <img src={mainImg1} alt="" />
           </div>
           </Col>
