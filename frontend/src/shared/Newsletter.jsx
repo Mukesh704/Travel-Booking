@@ -11,14 +11,14 @@ const Newsletter = () => {
         <Row>
             <Col lg='6'>
             <div className="newsletter_content">
-                <h2>Subscribe now to get useful travelling infornamtion.</h2>
+                <h2>Subscribe now to get useful travelling information</h2>
 
                 <div className="newsletter_input">
                     <input type="email" placeholder='Enter your email' />
                     <button className="btn newsletter_btn">Subscribe</button>
                 </div>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores aliquam explicabo facere consequatur ullam provident!</p>
+                <p>Subscribe now for valuable travel insights, tips, and exclusive updates to enhance your journeys!</p>
             </div>
             </Col>
             <Col lg='6'>

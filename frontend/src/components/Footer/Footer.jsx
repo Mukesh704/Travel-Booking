@@ -46,14 +46,15 @@ const Footer = () => {
           <Col lg='3'>
           <div className="logo">
             <img src={logo} alt="" />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, similique.</p>
+            <p>Your journey begins here—stay connected for travel updates and exclusive offers!</p>
 
             <div className="social_links d-flex align-items-center gap-4">
               <span>
                 <Link to='#'><i class="ri-youtube-line"></i></Link>
               </span>
               <span>
-                <Link to='#'><i class="ri-github-fill"></i></Link>
+                <a href="https://github.com/Mukesh704?tab=repositories" target='_blank'><i class="ri-github-fill"></i></a>
+                {/* <Link to='#'></Link> */}
               </span>
               <span>
                 <Link to='#'><i class="ri-facebook-circle-fill"></i></Link>

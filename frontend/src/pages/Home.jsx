@@ -31,7 +31,7 @@ const Home = () => {
               <img src={worldImg} alt="" />
             </div>
             <h1>Let's find some beautiful place to make <span className="highlight"> memories</span></h1>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate placeat facilis non magni   similique, possimus natus ipsum quo quisquam, unde quis quia excepturi! Maxime sed recusandae   autem illum. Consequuntur, odit.</p>
+            <p>Explore stunning destinations and craft unforgettable memories. Whether it's a serene beach escape, an adventurous mountain trek, or a cultural city tour, we offer personalized travel experiences with seamless planning and exclusive deals. Your perfect getaway is just a click away.</p>
           </div>
           </Col>
   
@@ -91,7 +91,7 @@ const Home = () => {
             <div className="experience_content">
               <Subtitle subtitle={'Experience'}/>
               <h2>With our all experience <br /> we will serve you</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br /> Animi temporibus, sapiente   assumenda eligendi eos cupiditate.</p>
+              <p>With our extensive experience, we ensure personalized service and unforgettable travel experiences crafted perfectly to suit your needs.</p>
             </div>
             
             <div className="counter_wrapper d-flex align-items-center gap-5">
